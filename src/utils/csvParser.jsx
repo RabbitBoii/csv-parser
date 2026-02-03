@@ -6,7 +6,6 @@ export const parseCSV = (file) => {
             header: true,
             skipEmptyLines: true,
             complete: (results) => {
-                // Validate headers
                 const expectedHeaders = [
                     'Item Code', 'Material', 'Quantity',
                     'Estimated Rate', 'Supplier 1 (Rate)',

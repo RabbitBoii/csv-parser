@@ -63,9 +63,7 @@ supplier-rate-analyzer/
 ├── src/
 │   ├── components/
 │   │   ├── FileUpload.jsx          # Page 1: CSV file selection
-│   │   ├── DataTable.jsx           # Page 2: Data visualization
-│   │   ├── TableHeader.jsx         # Table header with controls
-│   │   └── TableCell.jsx           # Individual cell with heat map
+│   │   └── DataTable.jsx           # Page 2: Data visualization
 │   ├── utils/
 │   │   ├── csvParser.js            # CSV parsing logic
 │   │   ├── heatMapCalculator.js    # Color interpolation for heat map
@@ -228,7 +226,7 @@ This project is created for educational purposes.
 
 ## 👥 Authors
 
-Your Name - Your Assignment
+- RabbitBoii
 
 ## 🙏 Acknowledgments
 
